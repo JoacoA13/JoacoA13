@@ -7,4 +7,3 @@
 ## 📫 Contacto
 
 - 📧 Email: joaquin.astorino@gmail.com
-- 💼 LinkedIn: [tu perfil de LinkedIn]
