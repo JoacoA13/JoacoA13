@@ -2,7 +2,7 @@
 
 ¡Bienvenido/a a mi perfil de GitHub! Soy un Estudiante de programacion, apasionado/a por la tecnologia.
 
-- 🌱 Estoy aprendiendo [].
+- 🌱 Estoy aprendiendo.
 
 ## 📫 Contacto
 
