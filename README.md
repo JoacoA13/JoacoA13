@@ -1,19 +1,10 @@
-# 👋 Hola, soy [Tu Nombre]
+# 👋 Hola, soy [Joaquin]
 
-¡Bienvenido/a a mi perfil de GitHub! Soy un/a [tu profesión o área de interés], apasionado/a por [tus intereses]. Aquí encontrarás algunos de mis proyectos, contribuciones y aprendizajes en el mundo de la programación.
+¡Bienvenido/a a mi perfil de GitHub! Soy un Estudiante de programacion, apasionado/a por la tecnologia.
 
-## 🌟 Destacados
+- 🌱 Estoy aprendiendo [].
 
-- 🚀 Actualmente estoy trabajando en [proyecto actual].
-- 🌱 Estoy aprendiendo [tecnología o habilidad nueva].
-- 💬 Pregunta sobre mí: [dato interesante sobre ti].
+## 📫 Contacto
 
-## 📫 Cómo contactarme
-
-- 😄 Pronombres: [tus pronombres]
-- 📧 Email: [tu correo electrónico]
+- 📧 Email: joaquin.astorino@gmail.com
 - 💼 LinkedIn: [tu perfil de LinkedIn]
-
-## 🚀 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
