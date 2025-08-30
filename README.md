@@ -1,7 +1,7 @@
-# 👋 ¡Hola! Soy Joaquín Astorino
-Tengo 20 años, soy Tecnico Informatico y estudiante de Programación en la UTN.
-
+# 👋 ¡Hola! Soy Joaquín
 ¡Bienvenido/a a mi perfil de GitHub!
+
+Tengo 20 años, soy Tecnico Informatico y estudiante de Programación en la UTN.
 
 💻 Me especializo en Python, JavaScript, Java, Angular, HTML, CSS y manejo bases de datos relacionales y no relacionales (MySQL, MongoDB).
 
